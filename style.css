@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    border: 1px solid grey;
+    width: 30px;
+    text-align: center;
+    height: 30px;
+}
+#player1 {
+    border: 1px solid grey;
+}
+#player2 {
+    border: 1px solid grey;
+}
+.main {
+    width: 400px;
+    border: 5px solid aqua;
+}
